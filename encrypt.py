@@ -68,6 +68,7 @@ while True:
             print(" "*10,"! Invalid Password, Check Parameters...")
     elif cmd in "Ee":
         print("-"*60)
+        print(" "*25,"Thanks")
         print(" "*25,"Visit Again")
         print("#"*60)
         break
